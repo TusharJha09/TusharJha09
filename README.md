@@ -33,3 +33,11 @@ Building stronger expertise in **Java backend development**, creating real-world
 I'm always interested in learning, building, and collaborating on interesting software projects.
 
 **Java • Backend Development • REST APIs • SQL • Web Development**
+
+
+<div align="center">
+  <br/>
+  <i>hustler life forever 🧋</i>
+  <br/><br/>
+  <img src="brainstorm-skull.svg" width="600" alt="Brainstorm AI Network" />
+</div>
